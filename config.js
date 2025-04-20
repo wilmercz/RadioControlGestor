@@ -1,12 +1,12 @@
-// Configuración de Firebase
+// config.js
 const firebaseConfig = {
-    apiKey: "TU_API_KEY",
-    authDomain: "tu-proyecto.firebaseapp.com",
-    databaseURL: "https://tu-proyecto.firebaseio.com",
-    projectId: "tu-proyecto",
-    storageBucket: "tu-proyecto.appspot.com",
-    messagingSenderId: "TU_MESSAGING_ID",
-    appId: "TU_APP_ID"
+  apiKey: "AIzaSyD0lkEDKhia76E6ef3uU0B1lOH8CyklCnc",
+  authDomain: "arki-service-autoridades.firebaseapp.com",
+  databaseURL: "https://arki-service-autoridades.firebaseio.com",
+  projectId: "arki-service-autoridades",
+  storageBucket: "arki-service-autoridades.appspot.com",
+  messagingSenderId: "829954736380",
+  appId: "1:829954736380:web:c4badfee0e0db02dd69779"
 };
 
 // Inicializar Firebase
